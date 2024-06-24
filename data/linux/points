@@ -1,0 +1,5 @@
+concatenated empty keys with the next ones.
+
+deleted empty keys which had empty values for the next key.
+
+removed ?, help, and version.
